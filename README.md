@@ -22,6 +22,6 @@ Currency Conversion challenge is a `command-line application` that allows a user
 - `curry query-currency` retrieves and displays details for a selected currency.    
 ![curry query-currency Screenshot](./images/curry_query-currency.png)     
 - `csv-export` allows `ALL historical conversions` to be exported to a `.csv file`.   
-![currency csv export Screenshot](./images/curry_csv-export.png)    
+![currency csv export Screenshot](./images/curry csv-export.png)    
 
 
