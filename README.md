@@ -12,7 +12,7 @@ Currency Conversion challenge is a `command-line application` that allows a user
 
 ## Instructions   
 - After cloning the github repo, navigate into the root of the project directory(currency-conversion-challenge).  
-- Install Node.js and all the required dependencies using `sudo npm i -g`. For access of all the `currency` command options, enter currency --help.
+- Install Node.js and all the required dependencies using `sudo npm i -g`. For access of all the `currency` command options, enter `currency --help`.
 - When you enter the command `currency convert`, the application prompts the user to type-in the currency names and a value to convert. Also displays information of the exchange rates for any currency input set for a standard of one US Dollar.   
 ![currency convert Screenshot](./images/currency_convert.png)   
 ![currency convert Screenshot](./images/choose_currency_type.png) 
