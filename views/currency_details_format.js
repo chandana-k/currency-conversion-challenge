@@ -51,7 +51,7 @@ At the time, the exchange rates were:
 ${columnify(rateObject, { columns: ["Currency", "Rate"], minWidth: 40 })}
 
 Exchange rates are set with respect to one US Dollar ($1.00).\n
-`);
+`.green);
 }
 // Function for formatting the currency conversion output
 function prettyPrintConversion(conversion, newRecordStatus) {

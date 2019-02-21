@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Required dependencies and packages
 const { version } = require("./package");
 const program  = require('commander');

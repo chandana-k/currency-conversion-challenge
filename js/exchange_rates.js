@@ -14,7 +14,7 @@ function getExchangeRates(base, convertTo) {
       if (!error && response.statusCode == 200) {
         resolve(JSON.parse(body));
       } else {
-        console.log(`API connection error: ${error}`.magenta);
+        console.log(`API connection error: ${error}`);
       }
     });
   });

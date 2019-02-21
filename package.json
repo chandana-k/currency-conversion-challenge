@@ -14,6 +14,9 @@
   "keywords": [],
   "author": "Chandana Katika",
   "license": "ISC",
+  "bin": {
+    "currency": "./main_script.js"
+  },
   "bugs": {
     "url": "https://github.com/chandana-k/currency-conversion-challenge/issues"
   },

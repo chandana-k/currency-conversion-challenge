@@ -1,7 +1,7 @@
 // Required variables and dependencies
 const Json2csvParser              = require("json2csv").Parser;
 const fs                          = require("fs");
-const { getAllConversionRecords } = require("./conversions");
+const { getAllConversionRecords } = require("./currency_conversions");
 const { success }                 = require("../views/csv");
 
 function organizeContent(conversions) {
